@@ -1,0 +1,5 @@
+name
+number
+id_number
+blood_type
+gender
